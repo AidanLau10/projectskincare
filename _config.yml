@@ -5,6 +5,7 @@ github_username: AidanLau10
 github_repo: "alienWorld"
 baseurl: "/projectskincare"
 remote_theme: jekyll/minima
+repository: AidanLau10/projectskincare
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
