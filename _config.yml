@@ -1,9 +1,9 @@
-title: Alien World
+title: Skincare Extension
 description: "August 2023 to June 2024"
-owner_name: John Mortensen
-github_username: jm1021
+owner_name: Aidan Lau
+github_username: AidanLau10
 github_repo: "alienWorld"
-baseurl: "/alienWorld"
+baseurl: "/projectskincare"
 remote_theme: jekyll/minima
 minima:
   social_links:
