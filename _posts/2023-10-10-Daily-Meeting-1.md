@@ -27,4 +27,8 @@ Learning outcome for week: Create shared repositories and learn how to plan.
   - [Created a Stage 1 Plan diagram](https://www.figma.com/file/lNaiEEGgJDh8OhVRZOh4G7/Stage-1-Plan?type=whiteboard&node-id=0-1&t=bl3uLunH7cqTKAUK-0)
 - Wednesday
   - Prepare for Live Review with Mr. Lopez
-
+- Thursday
+  - Make any finishing touches to project(issues, backend, frontend, figma, AWS)
+- Friday - Complete Live Review
+  - Should re-evaluate scope of project and change it from a Google Chrome extension to a web page 
+  - Keep using data to communicate between frontend and backend
