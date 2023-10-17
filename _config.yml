@@ -1,11 +1,11 @@
-title: Skincare Extension
+title: Scheduling App
 description: "August 2023 to June 2024"
 owner_name: Aidan Lau
 github_username: AidanLau10
-github_repo: "projectskincare"
-baseurl: "/projectskincare"
+github_repo: "projectSchedulingFrontend"
+baseurl: "/projectSchedulingFrontend"
 remote_theme: jekyll/minima
-repository: AidanLau10/projectskincare
+repository: AidanLau10/projectSchedulingFrontend
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
